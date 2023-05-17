@@ -3,7 +3,7 @@
 **[NYU]**
 
 
-[[`Paper`](https://ai.facebook.com/research/publications/segment-anything/)] [[`Project`](https://segment-anything.com/)] [[`Demo`](https://segment-anything.com/demo)] [[`Dataset`](https://segment-anything.com/dataset/index.html)]
+[[`Report`](https://github.com/anupam-tiwari/deep_learning_final_project/tree/main/report)] [[`Project`](https://segment-anything.com/)] [[`Demo`](https://github.com/anupam-tiwari/deep_learning_final_project/tree/main/notebook)] [[`Dataset`](https://huggingface.co/datasets/nielsr/breast-cancer)]
 
 ![SAM design](https://images.prismic.io/encord/b1552393-346e-4dc2-913d-6d8100789907_univercel-segmentation-model.png?auto=compress,format)
 
